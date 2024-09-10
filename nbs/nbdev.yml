@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "vlm-experiments"
+  site-url: "https://nd-crane.github.io/vlm-experiments"
+  description: "Experiments with local Vision Large Language Model"
+  repo-branch: main
+  repo-url: "https://github.com/nd-crane/vlm-experiments"
